@@ -16,7 +16,7 @@ npm install --save @tepez/auth0-rules-types
 The module declares global variables so you should import it, e.g.:
 
 ```ts
-import '@tepez/auth0-rules-types'
+import '@mleybsage/auth0-rules-types'
 ```
 
 It also defines types you can use in the rules:
